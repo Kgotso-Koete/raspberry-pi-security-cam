@@ -33,7 +33,7 @@
     "capture-settings": {
         "Resize": false,
         "makeRaw": false,
-        "Resolution": 0,
+        "Resolution": 4,
         "available-resolutions": [
             [
                 4608,

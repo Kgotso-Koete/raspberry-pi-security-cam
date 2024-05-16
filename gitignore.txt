@@ -1,0 +1,41 @@
+# Virtual Environment
+/ENV/
+/.venv/
+
+# VS Code settings
+.vscode/
+
+# SQLite database
+db.sqlite3
+
+# Environment variables
+.env
+
+# Node modules
+/node_modules/
+
+# Secrets file
+secrets.json
+
+# Node package lock file
+package-lock.json
+
+# Python scripts
+unzip_requirements.py
+
+# Serverless files
+.serverless/
+.requirements.zip
+zappa.zip
+
+# Static files
+/static/gallery/
+
+# Byte-compiled / optimized / DLL files
+/__pycache__/
+
+# GitHub configuration directory
+.github/
+
+# Unknown extension file
+.lgd-nfy0
